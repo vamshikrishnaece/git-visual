@@ -10,7 +10,7 @@ namespace proj
             Console.WriteLine();
             Console.WriteLine("vamshi");
             Console.WriteLine("");
-            Console.WriteLine("hii from git");
+            Console.WriteLine("hii from git"
 
 
         }
