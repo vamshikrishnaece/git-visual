@@ -9,7 +9,7 @@ namespace proj
             Console.WriteLine("Hello World!");
             Console.WriteLine();
             Console.WriteLine("vamshi");
-            Console.read(
+            Console.read();
 
         }
     }
